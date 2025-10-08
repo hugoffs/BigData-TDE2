@@ -1,4 +1,4 @@
-# python .\nivel_medio_class.py .\DataBase\wowah_data.csv  > nivel.txt
+# python .\nivel_medio_class.py .\DataBase\wowah_data.csv  > .\resultado.\nivel.txt
 from mrjob.job import MRJob
 import numpy as np
 
